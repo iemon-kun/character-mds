@@ -1,1 +1,1 @@
-characters/castoria.md
+characters/sota.md
